@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">imadTask2</string>
+    <string name="Continue"> Tap To Continue</string>
+    <string name="Title">Mochi the Tomagachi</string>
+    <string name="Feed">Feed Mochi:</string>
+    <string name="play">play with Mochi:</string>
+    <string name="wash">Wash Mochi:</string>
+</resources>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".GameScreen">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/Cream"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tvTitle"
+            android:layout_width="match_parent"
+            android:layout_height="75dp"
+            android:fontFamily="@font/bangers"
+            android:text="@string/Title"
+            app:autoSizeTextType="uniform" />
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="match_parent"
+            android:layout_height="323dp"
+            android:contentDescription="TODO"
+            android:scaleType="centerInside"
+            app:srcCompat="@drawable/th_trung_nguy_n_shiba" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/LightBrown"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/btnFeed"
+                android:layout_width="match_parent"
+                android:layout_height="84dp"
+                android:layout_weight="1"
+                android:autoText="false"
+                android:backgroundTint="@color/dark_blue"
+                android:fontFamily="@font/bowlby_one"
+                android:text="@string/Feed"
+                android:textSize="24sp" />
+
+            <Button
+                android:id="@+id/btnPlay"
+                android:layout_width="match_parent"
+                android:layout_height="90dp"
+                android:layout_weight="1"
+                android:autoText="false"
+                android:backgroundTint="@color/dark_blue"
+                android:fontFamily="@font/bowlby_one"
+                android:text="@string/play"
+                android:textSize="24sp" />
+
+            <Button
+                android:id="@+id/btnWash"
+                android:layout_width="match_parent"
+                android:layout_height="90dp"
+                android:layout_weight="1"
+                android:autoText="false"
+                android:backgroundTint="@color/dark_blue"
+                android:fontFamily="@font/bowlby_one"
+                android:text="@string/wash"
+                android:textSize="24sp" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
