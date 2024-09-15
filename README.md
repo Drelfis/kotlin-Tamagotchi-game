@@ -18,27 +18,7 @@ If the scores get low the button collor will chainge from the default blue, to a
 I tried to implement gifs, but android studios builed in gif feature dosent seem to be working on android studios version Heachog, i also tried to use sink the gradels with new code, but it would often fail, so i had to resort to using static immages
 
 
-### short video
-https://github.com/VCSTDN/imad-assignment-2-ST10440057/assets/161335502/a40af255-abcd-4a95-9402-b4de47e5985b
 
-### Home Screen
-![image](https://github.com/VCSTDN/imad-assignment-2-ST10440057/assets/161335502/05d527c8-dd3e-40f8-9225-7c0b0724f2ad)
-
-### Meet Mochie
-![image](https://github.com/VCSTDN/imad-assignment-2-ST10440057/assets/161335502/f7bc51c7-2f58-4848-8166-ad45e3b5b62f)
-
-### Playing with Mochie 
-![image](https://github.com/VCSTDN/imad-assignment-2-ST10440057/assets/161335502/dca4efb1-63c2-4a2d-8454-1d3211037e64)
-
-### Washing Mochie
-![image](https://github.com/VCSTDN/imad-assignment-2-ST10440057/assets/161335502/9a4a58cd-2be5-4102-aa7c-8ee0a8c71cd8)
-
- 
-### Feeding Mochie
-![image](https://github.com/VCSTDN/imad-assignment-2-ST10440057/assets/161335502/18578f45-5bd4-40e5-aa7e-03889895b114)
-
-### Mochie when scores are low
-![image](https://github.com/VCSTDN/imad-assignment-2-ST10440057/assets/161335502/5bca062e-8151-4324-a137-21cb340c5a04)
 
 # Refrences
 The lIE. 2024. Introduction to Mobile Application Development [IMAD5112 Module Manuell. The Independent Institution of Education: Unpublished.
